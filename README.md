@@ -75,6 +75,8 @@ The input JSON file should contain records with the following structure:
   }
 ]
 ```
+## Screenshot:
+<img width="1731" alt="LocationHistoryTimeLapse" src="https://github.com/user-attachments/assets/05097f5c-a904-454a-962c-530dc511efda" />
 
 ## License
 
