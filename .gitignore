@@ -5,3 +5,5 @@ parse.py
 *.html
 *.csv
 parse.py
+/.idea
+timeline.py
